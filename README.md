@@ -1,3 +1,5 @@
+# Dashboard
+![image](https://user-images.githubusercontent.com/86229878/177598436-71536607-96e0-4b52-9d60-58d66ac9a1da.png)
 # Objective 🎯
 The goal of this project is to analyse the heart disease
 occurrence, based on a combination of features that
